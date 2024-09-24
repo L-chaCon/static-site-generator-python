@@ -23,7 +23,7 @@ the `content` folder. For example:
 ./main.sh my_static_folder my_content_folder
 ```
 
-> [!NOTE] Considerations  
+> [!NOTE] 
 > Some considerations are:  
 > - There is no inline nesting. This means if you have `**bold *italic* text**`, it will not work.  
 > - The markdown has to be correctly formatted to work. This means there should be `\n\n` between blocks.
